@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zengord.github.io/stroykontur/sitemap.xml

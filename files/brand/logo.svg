@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="120" viewBox="0 0 640 120" role="img" aria-label="СТРОЙКОНТУР">
+  <rect width="640" height="120" fill="#202420"/>
+  <path d="M25 22h46v56H25Zm16 13h46v56H41Z" fill="none" stroke="#ef6039" stroke-width="3"/>
+  <text x="110" y="60" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#eeeee7">СТРОЙКОНТУР</text>
+  <text x="112" y="85" font-family="Arial, sans-serif" font-size="15" fill="#b3beab">Генеральный подрядчик</text>
+</svg>
